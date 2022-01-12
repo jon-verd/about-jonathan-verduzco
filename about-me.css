@@ -6,10 +6,19 @@ img {
     height: auto;
 }
 
+iframe {
+    text-align: center
+}
+
 p {
     text-align: center
 }
 
 h1 {
     text-align: center
+}
+
+#multitasking {
+    width: 500px;
+    height: 300px;
 }
